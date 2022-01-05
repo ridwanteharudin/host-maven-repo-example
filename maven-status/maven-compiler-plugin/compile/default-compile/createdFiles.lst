@@ -1,0 +1,6 @@
+com\alamisharia\services\client\model\MailNotificationModel.class
+com\alamisharia\services\client\model\PushNotificationModel.class
+com\alamisharia\services\client\service\NotificationServiceClient.class
+com\alamisharia\services\client\service\NotificationServiceClient$MyCallback.class
+com\alamisharia\services\client\model\SlackNotificationModel.class
+com\alamisharia\services\client\model\NotificationClientModel.class
