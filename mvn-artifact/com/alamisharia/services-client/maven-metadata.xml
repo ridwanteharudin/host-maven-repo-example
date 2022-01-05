@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.alamisharia</groupId>
+  <artifactId>services-client</artifactId>
+  <versioning>
+    <release>prod-1.0</release>
+    <versions>
+      <version>prod-1.0</version>
+    </versions>
+    <lastUpdated>20220105034108</lastUpdated>
+  </versioning>
+</metadata>
